@@ -1,0 +1,15 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// Base files
+@import 'base/reset';
+@import 'base/variables';
+@import 'base/functions';
+@import 'base/base-styles';
+@import 'base/typography';
+@import 'base/flex-grid';
+@import 'base/utils';
+
+// Module Files
+@import 'modules/video';

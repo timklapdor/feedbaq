@@ -1,0 +1,16 @@
+.centered-grid {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.splash-screen {
+  max-width: 45vw;
+}
+
+article {
+  min-height: 90vh;
+}
